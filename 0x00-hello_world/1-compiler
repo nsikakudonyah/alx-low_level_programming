@@ -1,0 +1,2 @@
+#!/bin/bash
+goo -c $CFILE
